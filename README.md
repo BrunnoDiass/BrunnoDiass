@@ -23,8 +23,8 @@
 
 Desenvolvedor **Full Stack Júnior** na **Rillsoft Sistemas**, onde atuo em um **ERP em produção** usado por clientes reais. Comecei como estagiário em 2024 e hoje trabalho de ponta a ponta: do banco de dados ao front-end, do deploy à integração com serviços externos.
 
-- 🔌 Integro o ERP com **SEFAZ** (NF-e, CT-e, MDF-e, NFS-e via SOAP/XML), **Mercado Livre** e **WhatsApp**
-- ⚡ Otimizo rotinas críticas com **Redis** e comunicação em tempo real via **WebSockets**
+- 🔌 Integrações em sistema ERP
+- ⚡ Otmização de rotinas críticas, desenvolvimento de microserviços e API's
 - 🔐 Autenticação e permissões com **JWT** e **OAuth**
 - 🤖 Uso **LLMs e agentes de IA** diariamente para entregar mais e com mais qualidade
 - 🐍 Aprofundando **Python** para construir soluções baseadas em LLMs
