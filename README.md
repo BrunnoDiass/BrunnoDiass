@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Bruno%20Maia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Integra%C3%A7%C3%B5es%20%7C%20Automa%C3%A7%C3%A3o%20%26%20IA&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Bruno%20Maia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20-%20Integra%C3%A7%C3%B5es%20-%20Automa%C3%A7%C3%A3o%20e%20IA&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <!-- Texto digitando -->
@@ -83,11 +83,6 @@ Desenvolvedor **Full Stack Júnior** na **Rillsoft Sistemas**, onde atuo em um *
 ---
 
 ## 📈 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunnoDiass&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoDiass&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&locale=pt-br" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BrunnoDiass&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&locale=pt_BR" />
