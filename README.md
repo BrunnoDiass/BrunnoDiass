@@ -6,7 +6,7 @@
 <!-- Texto digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=PHP+%E2%80%A2+Vue.js+%E2%80%A2+Node.js;Integrando+ERPs+com+SEFAZ%2C+marketplaces+e+Microserviços;Automatizando+processos+com+n8n+e+Docker;Construindo+solu%C3%A7%C3%B5es+com+LLMs+e+agentes+de+IA" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=PHP+%E2%80%A2+Vue.js+%E2%80%A2+Node.js;Integrando+ERPs+com+SEFAZ%2C+marketplaces+e+APIs;Automatizando+processos+com+n8n+e+Docker;Construindo+solu%C3%A7%C3%B5es+com+LLMs+e+agentes+de+IA" alt="Typing SVG" />
   </a>
 </p>
 
