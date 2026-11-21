@@ -6,7 +6,7 @@
 <!-- Texto digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=PHP+%E2%80%A2+Vue.js+%E2%80%A2+Node.js;Integrando+ERPs+com+SEFAZ%2C+marketplaces+e+APIs;Automatizando+processos+com+n8n+e+Docker;Construindo+solu%C3%A7%C3%B5es+com+LLMs+e+agentes+de+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=PHP+%E2%80%A2+Vue.js+%E2%80%A2+Node.js+%E2%80%A2+Laravel;Integrando+ERPs+com+SEFAZ%2C+marketplaces+e+WhatsApp;Automatizando+processos+com+n8n+e+Docker;Construindo+solu%C3%A7%C3%B5es+com+LLMs+e+agentes+de+IA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,8 +23,8 @@
 
 Desenvolvedor **Full Stack Júnior** na **Rillsoft Sistemas**, onde atuo em um **ERP em produção** usado por clientes reais. Comecei como estagiário em 2024 e hoje trabalho de ponta a ponta: do banco de dados ao front-end, do deploy à integração com serviços externos.
 
-- 🔌 Integrações em sistema ERP
-- ⚡ Otmização de rotinas críticas, desenvolvimento de microserviços e API's
+- 🔌 Integro o ERP com **SEFAZ** (NF-e, CT-e, MDF-e, NFS-e via SOAP/XML), **Mercado Livre** e **WhatsApp**
+- ⚡ Otimizo rotinas críticas com **Redis** e comunicação em tempo real via **WebSockets**
 - 🔐 Autenticação e permissões com **JWT** e **OAuth**
 - 🤖 Uso **LLMs e agentes de IA** diariamente para entregar mais e com mais qualidade
 - 🐍 Aprofundando **Python** para construir soluções baseadas em LLMs
@@ -75,36 +75,11 @@ Desenvolvedor **Full Stack Júnior** na **Rillsoft Sistemas**, onde atuo em um *
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| 📊 **Análise de planilhas com Python** | Automatizou a conferência manual de grandes planilhas Excel de um engenheiro | Python · Excel · Gemini |
-| 📲 **Postagens automáticas em redes sociais** | Publica conteúdo no TikTok a partir de uma planilha, sem intervenção manual | n8n · Buffer · Google Sheets · Docker |
-| 💬 **Envio de mensagens pelo WhatsApp** | Automação de disparo de mensagens via API | Evolution API · n8n |
-| 🌐 **Portfólio pessoal** | Site com experiência, projetos e currículo | HTML · CSS · JS · Node.js/Express |
+| 📊 **Análise de dados com Python** | Lê, processa e analisa grandes planilhas automaticamente, substituindo conferências manuais por resultados precisos | Python · Excel · IA |
+| 📲 **Automação de redes sociais** | Automação de perfis e páginas em redes sociais | n8n · Docker |
+| 🛒 **Integração com Mercado Livre** | Integração do ERP com o Mercado Livre, cobrindo todo o fluxo de vendas: anúncios, estoque e pedidos | PHP · Node.js · APIs REST |
+| 🤖 **Scrum Assistente** | Agente de IA que otimiza o gerenciamento de tarefas e apoia o time no dia a dia ágil | LLMs · Agentes de IA |
 
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BrunnoDiass&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunnoDiass&bg_color=0f172a&color=06b6d4&line=1e3a8a&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<!-- Animação da cobrinha (requer o workflow .github/workflows/snake.yml) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunnoDiass/BrunnoDiass/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/BrunnoDiass/BrunnoDiass/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <b>📫 Vamos conversar?</b> Aberto a oportunidades, projetos de integração e automação com IA.
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
