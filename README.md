@@ -6,7 +6,7 @@
 <!-- Texto digitando -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=PHP+%E2%80%A2+Vue.js+%E2%80%A2+Node.js+%E2%80%A2+Laravel;Integrando+ERPs+com+SEFAZ%2C+marketplaces+e+WhatsApp;Automatizando+processos+com+n8n+e+Docker;Construindo+solu%C3%A7%C3%B5es+com+LLMs+e+agentes+de+IA" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=PHP+%E2%80%A2+Vue.js+%E2%80%A2+Node.js;Integrando+ERPs+com+SEFAZ%2C+marketplaces+e+APIs;Automatizando+processos+com+n8n+e+Docker;Construindo+solu%C3%A7%C3%B5es+com+LLMs+e+agentes+de+IA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,8 +23,8 @@
 
 Desenvolvedor **Full Stack Júnior** na **Rillsoft Sistemas**, onde atuo em um **ERP em produção** usado por clientes reais. Comecei como estagiário em 2024 e hoje trabalho de ponta a ponta: do banco de dados ao front-end, do deploy à integração com serviços externos.
 
-- 🔌 Integro o ERP com **SEFAZ** (NF-e, CT-e, MDF-e, NFS-e via SOAP/XML), **Mercado Livre** e **WhatsApp**
-- ⚡ Otimizo rotinas críticas com **Redis** e comunicação em tempo real via **WebSockets**
+- 🔌 Integrações em sistema ERP
+- ⚡ Otimização de rotinas críticas, desenvolvimento de microsserviços e APIs
 - 🔐 Autenticação e permissões com **JWT** e **OAuth**
 - 🤖 Uso **LLMs e agentes de IA** diariamente para entregar mais e com mais qualidade
 - 🐍 Aprofundando **Python** para construir soluções baseadas em LLMs
