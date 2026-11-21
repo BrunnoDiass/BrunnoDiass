@@ -81,6 +81,14 @@ Desenvolvedor **Full Stack Júnior** na **Rillsoft Sistemas**, onde atuo em um *
 | 🤖 **Scrum Assistente** | Agente de IA que otimiza o gerenciamento de tarefas e apoia o time no dia a dia ágil | LLMs · Agentes de IA |
 
 
+<!-- Animação Galaga gerada pelo workflow .github/workflows/galaga.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunnoDiass/BrunnoDiass/output/galaga-contribution-graph-dark.svg" />
+    <img alt="Galaga no gráfico de contribuições" src="https://raw.githubusercontent.com/BrunnoDiass/BrunnoDiass/output/galaga-contribution-graph.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
 </p>
